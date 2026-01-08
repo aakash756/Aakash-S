@@ -75,11 +75,11 @@
         "print(f\"Accuracy: {accuracy_score(y_test, y_pred) * 100:.2f}%\")"
       ],
       "metadata": {
-        "id": "1G77sDQ3vmGp",
-        "outputId": "325fd1de-a51d-420f-b21a-9442b9deae1f",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "1G77sDQ3vmGp",
+        "outputId": "325fd1de-a51d-420f-b21a-9442b9deae1f"
       },
       "execution_count": 3,
       "outputs": [
